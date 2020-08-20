@@ -76,7 +76,7 @@ If the credit card number is invalid, an error message should appear that looks 
 
 Add the following validations:
 
-* Expiration date must be a valid month and year.
+* Expiration date must be a valid month and year and in the correct format.
 * Expiration date must not be in the past.
 * Car year cannot be in the future.
 * Date parking must be in the future.

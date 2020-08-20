@@ -21,10 +21,6 @@
   padding: 0.5rem;
 }
 
-.input-field input:invalid {
-  border: 1px solid #E94F37;
-}
-
 .input-field button {
   font-size: 1rem;
   padding: 0.5rem;
