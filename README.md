@@ -4,13 +4,9 @@
 
 Look at `form.html`. It contains a form for pre-paid parking. It includes some styling already done for you in `style.css`.
 
-You will edit this HTML and write JavaScript to validate this form. When the "Make Reservation" button is clicked, you should check the values of each field and make sure they are valid. If not, you have to visually alert the user to that fact.
+You will edit this HTML and write JavaScript to validate this form. When the "Make Reservation" button is clicked, you should check the values of each field and make sure they are valid. If not, you have to visually alert the user to that fact. There are two rules in `style.css` that will help you with creating a visual alert: `input-valid` and `input-invalid`. You will need to add the corresponding class names to the div elements surrounding the `input` elements.
 
 Do this project in steps. Each step adds another layer of difficulty. Make sure and commit your code after each step, if not more often. Do not worry if you cannot complete all the steps!
-
-### Step 0
-
-Read [Client-side form validation](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation) up through the section titled "A more detailed example" under "Validating forms using JavaScript".
 
 ### Step 1
 
